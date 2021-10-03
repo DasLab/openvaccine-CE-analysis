@@ -1,0 +1,25 @@
+Samples,Nucleotide,k_deg per hour,k_deg_err per hour
+hHBB_LinearDesign-1_hHBB-natural,natural, 0.26097, 0.01590
+hHBB_LinearDesign-1_hHBB-PSU,PSU, 0.07770, 0.02210
+hHBB_Nluc-start_hHBB-natural,natural, 1.39175, 0.18654
+hHBB_Nluc-start_hHBB-PSU,PSU, 0.65694, 0.06294
+CoV-2-TTG-TTGfull-dSL1-3_LinearDesign-1_DEN2-natural,natural, 1.46521, 0.32644
+CoV-2-TTG-TTGfull-dSL1-3_LinearDesign-1_DEN2-PSU,PSU, 1.11630, 0.10123
+CoV-2-TTG-TTGfull-dSL1-3_Nluc_start_DEN2-natural,natural,80.00000,1482.27267
+CoV-2-TTG-TTGfull-dSL1-3_Nluc_start_DEN2-PSU,PSU, 2.47803, 0.85521
+C3_LinearDesign-1_SINV_URE-natural,natural, 0.52784, 0.05763
+C3_LinearDesign-1_SINV_URE-PSU,PSU, 0.18259, 0.01029
+C3_Nluc_start_SINV_URE-natural,natural, 1.55556, 0.20760
+C3_Nluc_start_SINV_URE-PSU,PSU, 0.48712, 0.04692
+hHBB_Yellowstone_hHBB-natural,natural, 1.07976, 0.15151
+hHBB_Curevac_2_hHBB-natural,natural, 0.94148, 0.13759
+hHBB_LocalDesign_hHBB-natural,natural, 0.94797, 0.12789
+hHBB_-423.7 kCal_hHBB-natural,natural, 1.02720, 0.10807
+CoV-2-TTG-TTGfull-dSL1-3_Yellowstone_DEN2-natural,natural, 2.76573, 0.95060
+CoV-2-TTG-TTGfull-dSL1-3_Curevac_2_DEN2-natural,natural, 2.69108, 0.51988
+CoV-2-TTG-TTGfull-dSL1-3_LocalDesign_DEN2-natural,natural, 2.38050, 0.51387
+CoV-2-TTG-TTGfull-dSL1-3_-423.7 kCal_DEN2-natural,natural, 1.99723, 0.39179
+C3_Yellowstone_SINV_URE-natural,natural, 1.04972, 0.01057
+C3_Curevac_2_SINV_URE-natural,natural, 0.90847, 0.02831
+C3_LocalDesign_SINV_URE-natural,natural, 1.34759, 0.18602
+C3_-423.7 kCal_SINV_URE-natural,natural, 1.10535, 0.10267

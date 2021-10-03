@@ -1,0 +1,14 @@
+Samples,Nucleotide,k_deg per hour,k_deg_err per hour
+hHBB_Yellowstone_hHBB-natural,natural, 0.72143, 0.05067
+hHBB_Yellowstone_hHBB-5mC,5mC, 0.68355, 0.06432
+hHBB_Yellowstone_hHBB-PSU,PSU, 0.43008, 0.03699
+hHBB_LinearDesign_hHBB-5mC,5mC, 0.25644, 0.08763
+hHBB_LinearDesign_hHBB-PSU,PSU, 0.14770, 0.00756
+hHBB_Nluc_hHBB-5mC,5mC, 0.86813, 0.10793
+hHBB_Nluc_hHBB-PSU,PSU, 0.98857, 0.92171
+hHBB_GCrich-2_hHBB-5mC,5mC, 0.44243, 0.08374
+hHBB_GCrich-2_hHBB-PSU,PSU, 0.15880, 0.01310
+hHBB_LocalDesign_hHBB-5mC,5mC, 0.46551, 0.04265
+hHBB_LocalDesign_hHBB-PSU,PSU, 0.16685, 0.00843
+hHBB_-423.7 kcal_hHBB-5mC,5mC, 0.51660, 0.11006
+hHBB_-423.7 kcal_hHBB-PSU,PSU, 0.54034, 0.38001

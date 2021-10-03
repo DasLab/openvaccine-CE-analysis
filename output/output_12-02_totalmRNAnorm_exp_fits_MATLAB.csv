@@ -1,0 +1,25 @@
+Samples,Nucleotide,k_deg per hour,k_deg_err per hour
+hHBB_10383581_START_reference_hHBB,PSU, 0.40510, 0.09864
+hHBB_10383601_LinearDesign-beamsize50-USETHISONE_hHBB,PSU, 0.21684,609893134984.44482
+hHBB_10383653_GC_rich_2_hHBB,PSU, 0.46446, 0.09248
+hHBB_10383651_GC_rich_1_hHBB,PSU, 0.42796, 0.10113
+hHBB_10388774_Twist_1_hHBB,PSU, 0.39733, 0.05825
+hHBB_10388767_Genewiz_1_hHBB,PSU, 0.46743, 0.14413
+hHBB_10388753_IDT_1_hHBB,PSU, 0.36762, 0.02105
+hHBB_10405622_Eli_Fisker_s_Yellowstone_hHBB,PSU, 0.40215, 0.03688
+hHBB_10415148_AB_Rhiju_Mod_3_hHBB,PSU, 0.15980, 0.02090
+hHBB_10417205_Jill's_mod_of_Clotho_2.0_hHBB,PSU, 0.18483, 0.02054
+hHBB_10389218_Omei_1_DG2=158.7_5'UTR_20_unpaired_hHBB,PSU, 0.25723, 0.04039
+hHBB_10419549_BugacMan's_Lost_LD+finetuning_mod_Deg-2-ed_hHBB,PSU, 0.13342, 0.02264
+hHBB_10415488_RLT-10_hHBB,PSU, 0.15044, 0.03978
+hHBB_10419522_12_hHBB,PSU, 0.35266, 0.04357
+hHBB_10409421_BugacMan's_Worm_refined_Kagglestyle_hHBB,PSU, 0.28635, 0.14056
+hHBB_10396597_Astros-Brourd-Eli-mod3_hHBB,PSU, 0.41945, 0.01765
+hHBB_10422723_Ribotree_Random_degscoreall_1_hHBB,PSU, 0.42717, 0.02896
+hHBB_10422744_Ribotree_Random_degscore_1_hHBB,PSU, 0.43383, 0.05780
+hHBB_10422764_Ribotree_LinearDesign_degscoreall_1_hHBB,PSU, 0.23945, 0.02557
+hHBB_10422784_Ribotree_LinearDesign_degscore_1_hHBB,PSU, 0.27135, 0.03866
+hHBB_10422804_Ribotree_LinearDesign_sup_1_hHBB,PSU, 0.26778, 0.04949
+hHBB_10422827_Ribotree_Random_sup_1_hHBB,PSU, 0.28531, 0.02228
+hHBB_10422746_Ribotree_BT_winner_random_degscore_2_hHBB,PSU, 0.38539, 0.01939
+hHBB_10422776_RiboTree_Nullrecurrent_winner_LinearDesign_degscoreall_7_hHBB,PSU, 0.25375, 0.04659
