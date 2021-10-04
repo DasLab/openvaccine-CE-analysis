@@ -1,17 +1,19 @@
 # openvaccine-CE-analysis
 
 ## What this is
-Capillary electrophoresis data and analysis to measure in-solution stability of mRNA's for the manuscript:
+**Capillary electrophoresis data and analysis to measure in-solution stability of mRNA's for the manuscript**:
 
 Leppek, K., Byeon, G.W., Kladwang, W., Wayment-Steele, H.K., Kerr, C., ... Barna, M., Das, R. (2021). Combinatorial optimization of mRNA structure, stability, and translation for RNA-based therapeutics. https://www.biorxiv.org/content/10.1101/2021.03.29.437587v1.
 
 ## Contributors
 + Data were collected by W. Kladwang, Stanford University, based on mRNA's prepared as part of the OpenVaccine collaboration by Maria Barna's and Rhiju Das's lab at Stanford.
 + Capillary electrophoresis measurements were carried out on an Agilent Bioanalyzer instrument at the PAN facility at Stanford.
-+ Code to convert bioanalyzer output to .csv files annotated with length by Do Soon Kim (visiting scholar).
-+ Code to quantitate peak areas and estimate mRNA half-life by Do Soon Kim and Rhiju Das, Stanford.
++ Code (python) to convert bioanalyzer output to .csv files annotated with length by Do Soon Kim (visiting scholar).
++ Code (MATLAB) to quantitate peak areas and estimate mRNA half-life by Do Soon Kim and Rhiju Das, Stanford.
 
 ## Example run
+You'll need to use MATLAB. Go into this working directory and add `matlab_scripts` to your path.
+
 To fit a set of data collected on 24 mRNA's degraded for different amounts of time:
 
 ```
