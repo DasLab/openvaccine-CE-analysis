@@ -34,7 +34,7 @@ Here's an example set of fits. This data set only involves 4 timepoints; others 
 ![fits](assets/example_peaks.png)
 
 
-Subtracting off the trapezoids gives estimates of the peak areas, which then can be used to estimate fraction intact (relative to the first timepoint), and fit to an exponential: 
+Subtracting off the trapezoids gives estimates of the peak areas, which then can be used to estimate fraction intact (relative to the first timepoint), and fit to an exponential (watch out -- the colors of the plot below do not match the colors for the peaks in the traces above):
 
 ![fits](assets/example_fits.png)
 
