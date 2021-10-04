@@ -1,0 +1,231 @@
+Data File Name,Eukaryote Total RNA Nano_2020-12-10_12-35-05.xad
+Data File Path,C:\Program Files (x86)\Agilent\2100 bioanalyzer\2100 expert\Data\2020-12-10
+Date Created,"Thursday, December 10, 2020 12:35:05 PM"
+Date Last Modified,"Thursday, December 10, 2020 1:28:19 PM"
+Version Created,B.02.11.SI811
+Version Last Modified,B.02.11.SI811
+ 
+Assay Name,Eukaryote Total RNA Nano Series II
+Assay Path,C:\Program Files (x86)\Agilent\2100 bioanalyzer\2100 expert\assays\RNA
+Assay Title,Eukaryote Total RNA Nano
+Assay Version,2.6
+ 
+Number of Samples Run,11
+ 
+Sample Name,Sample 1
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+27.5,6.6,22.50,18.5,1.1
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Overall Results:
+RNA Area:,9.88133,
+RNA Concentration:,5.19241,ng/µl
+rRNA Ratio [28s / 18s]:,0,
+RNA Integrity Number (RIN):,1   (B.02.11, Anomaly Threshold(s) manually adapted),
+Result Flagging Color:,16768991,
+Result Flagging Label:,RIN:1,
+ 
+Sample Name,17a_PU_8_TP1
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+27.6,6.7,22.50,19.2,0.8
+68.4,26.9,36.44,59.1,2.0
+1.8,0.8,42.04,1.0,1.0
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+18S,41.62,42.64,0.7,0.8
+ 
+Overall Results:
+RNA Area:,93.60089,
+RNA Concentration:,49.1851,ng/µl
+rRNA Ratio [28s / 18s]:,0,
+RNA Integrity Number (RIN):,1.3   (B.02.11, Anomaly Threshold(s) manually adapted),
+Result Flagging Color:,16768991,
+Result Flagging Label:,RIN: 1.30,
+ 
+Sample Name,17a_PU_8_TP2
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+28.3,7.0,22.50,20.1,0.7
+57.5,22.9,36.48,42.8,2.4
+0.5,0.3,51.92,1.2,0.6
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Overall Results:
+RNA Area:,95.11089,
+RNA Concentration:,49.97856,ng/µl
+rRNA Ratio [28s / 18s]:,0,
+RNA Integrity Number (RIN):,1.3   (B.02.11, Anomaly Threshold(s) manually adapted),
+Result Flagging Color:,16768991,
+Result Flagging Label:,RIN: 1.30,
+ 
+Sample Name,17a_PU_8_TP3
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+28.7,7.1,22.50,20.2,0.8
+32.9,13.2,36.55,24.8,2.0
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Overall Results:
+RNA Area:,81.13559,
+RNA Concentration:,42.63487,ng/µl
+rRNA Ratio [28s / 18s]:,0,
+RNA Integrity Number (RIN):,1.6   (B.02.11, Anomaly Threshold(s) manually adapted),
+Result Flagging Color:,16768991,
+Result Flagging Label:,RIN: 1.60,
+ 
+Sample Name,17a_PU_8_TP4
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+29.7,7.4,22.50,20.8,0.9
+21.1,8.5,36.56,15.4,1.8
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Overall Results:
+RNA Area:,77.91441,
+RNA Concentration:,40.94221,ng/µl
+rRNA Ratio [28s / 18s]:,0,
+RNA Integrity Number (RIN):,1.9   (B.02.11, Anomaly Threshold(s) manually adapted),
+Result Flagging Color:,16768991,
+Result Flagging Label:,RIN: 1.90,
+ 
+Sample Name,17a_PU_8_TP5
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+31.4,7.7,22.50,21.4,0.9
+16.3,6.5,36.63,11.4,1.8
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Overall Results:
+RNA Area:,77.3595,
+RNA Concentration:,40.65062,ng/µl
+rRNA Ratio [28s / 18s]:,0,
+RNA Integrity Number (RIN):,2   (B.02.11, Anomaly Threshold(s) manually adapted),
+Result Flagging Color:,16768991,
+Result Flagging Label:,RIN:2,
+ 
+Sample Name,17a_PU_8_TP6
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+29.2,7.1,22.50,20.5,1.0
+8.9,2.7,27.75,1.9,2.2
+11.3,3.8,30.78,2.9,1.7
+7.5,2.6,31.84,3.1,0.9
+7.4,2.7,33.08,3.2,0.8
+7.4,2.7,33.73,3.2,0.9
+28.9,11.5,36.58,9.9,3.3
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Overall Results:
+RNA Area:,101.8929,
+RNA Concentration:,53.54235,ng/µl
+rRNA Ratio [28s / 18s]:,0,
+RNA Integrity Number (RIN):,2.2   (B.02.11, Anomaly Threshold(s) manually adapted),
+Result Flagging Color:,16768991,
+Result Flagging Label:,RIN: 2.20,
+ 
+Sample Name,17a_PU_8_TP7
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+29.3,7.1,22.50,20.6,0.9
+7.9,2.4,27.79,1.6,1.6
+10.4,3.4,30.76,2.7,1.6
+9.0,3.1,31.69,3.0,1.1
+7.0,2.5,33.08,2.8,0.9
+11.9,4.5,35.21,7.2,1.4
+10.3,4.1,36.70,5.5,1.7
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+18S,40.69,41.34,0.1,0.2
+ 
+Overall Results:
+RNA Area:,83.92544,
+RNA Concentration:,44.10087,ng/µl
+rRNA Ratio [28s / 18s]:,0,
+RNA Integrity Number (RIN):,2.4   (B.02.11, Anomaly Threshold(s) manually adapted),
+Result Flagging Color:,16768991,
+Result Flagging Label:,RIN: 2.40,
+ 
+Sample Name,17a_PU_8_TP8
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+29.8,7.2,22.50,20.6,0.8
+14.5,4.3,27.84,2.4,3.2
+15.0,4.9,30.70,3.8,1.6
+10.3,3.5,31.78,3.9,0.9
+9.9,3.5,33.05,3.8,0.9
+7.9,2.9,33.70,3.6,0.9
+8.8,3.3,34.97,2.7,1.2
+10.9,4.3,36.66,5.2,1.7
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Overall Results:
+RNA Area:,102.3672,
+RNA Concentration:,53.7916,ng/µl
+rRNA Ratio [28s / 18s]:,0,
+RNA Integrity Number (RIN):,2.6   (B.02.11, Anomaly Threshold(s) manually adapted),
+Result Flagging Color:,16768991,
+Result Flagging Label:,RIN: 2.60,
+ 
+Sample Name,17a_PU_8_TP9
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+29.7,7.1,22.50,20.6,0.9
+43.7,12.8,27.69,4.3,4.7
+15.2,5.0,30.71,2.5,2.6
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Overall Results:
+RNA Area:,107.0857,
+RNA Concentration:,56.27106,ng/µl
+rRNA Ratio [28s / 18s]:,0,
+RNA Integrity Number (RIN):,2.6   (B.02.11, Anomaly Threshold(s) manually adapted),
+Result Flagging Color:,16768991,
+Result Flagging Label:,RIN: 2.60,
+ 
+Sample Name,17a_PU_8_TP10
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+28.6,6.8,22.50,20.0,0.7
+19.6,5.7,27.67,3.6,1.7
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Overall Results:
+RNA Area:,72.65293,
+RNA Concentration:,38.17743,ng/µl
+rRNA Ratio [28s / 18s]:,0,
+RNA Integrity Number (RIN):,2.7   (B.02.11, Anomaly Threshold(s) manually adapted),
+Result Flagging Color:,16768991,
+Result Flagging Label:,RIN: 2.70,

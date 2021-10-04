@@ -4,11 +4,13 @@ output_pdf = 0;
 %% 
 
 %% 12-02 (4-timepoint survey), P4-P6, mRNA
+output_pdf = 1;
 data_dir = 'data/120220_Bioanalyzer';
 pk_norm = 2; output_dir = 'output_12-02_P4P6norm'; 
 output_1202_P4P6norm = analyze_bioanalyzer_data( data_dir, pk_nt_bounds, pk_norm, output_dir, output_pdf );
 
 %% 12-02 (4-timepoint survey), P4-P6, mRNA -- expftivaryamp
+output_pdf = 0;
 data_dir = 'data/120220_Bioanalyzer';
 pk_norm = 2; output_dir = 'output_12-02_P4P6norm_expfitvaryamp';
 output_1202_P4P6norm_expfitvaryamp = analyze_bioanalyzer_data( data_dir, pk_nt_bounds, pk_norm, output_dir, output_pdf, 'expfit_varyamp');
@@ -26,11 +28,13 @@ output_1202_totalmRNAnorm_expfitvaryamp = analyze_bioanalyzer_data( data_dir, pk
 
 
 %% 12-10 (10-timepoint survey, no P4P6 spikein), use total-mRNA
+output_pdf = 1;
 data_dir = 'data/121020_Bioanalyzer';
 pk_norm = 0; output_dir = 'output_12-10_totalmRNAnorm';
 output_1210_totalmRNAnorm = analyze_bioanalyzer_data( data_dir, pk_nt_bounds, pk_norm, output_dir, output_pdf );
 
 %% 12-10 (10-timepoint survey, no P4P6 spikein), use total-mRNA Try to vary amplitudes.
+output_pdf = 1;
 data_dir = 'data/121020_Bioanalyzer';
 pk_norm = 0; output_dir = 'output_12-10_totalmRNAnorm_expfitvaryamp';
 output_1210_totalmRNAnorm_expfitvaryamp = analyze_bioanalyzer_data( data_dir, pk_nt_bounds, pk_norm, output_dir, output_pdf,'expfit_varyamp');

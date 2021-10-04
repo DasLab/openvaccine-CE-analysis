@@ -1,0 +1,97 @@
+﻿Sample,Nucleotide,Timepoint,Plate,FileNumber
+hHBB_LinearDesign-1_hHBB,natural,0,1,2
+hHBB_LinearDesign-1_hHBB,natural,1,1,4
+hHBB_LinearDesign-1_hHBB,natural,3,1,5
+hHBB_LinearDesign-1_hHBB,natural,5,1,6
+hHBB_LinearDesign-1_hHBB,PSU,0,1,7
+hHBB_LinearDesign-1_hHBB,PSU,1,1,8
+hHBB_LinearDesign-1_hHBB,PSU,3,1,9
+hHBB_LinearDesign-1_hHBB,PSU,5,1,10
+hHBB_Nluc-start_hHBB,natural,0,2,2
+hHBB_Nluc-start_hHBB,natural,1,2,3
+hHBB_Nluc-start_hHBB,natural,3,2,4
+hHBB_Nluc-start_hHBB,natural,5,2,5
+hHBB_Nluc-start_hHBB,PSU,0,2,6
+hHBB_Nluc-start_hHBB,PSU,1,2,7
+hHBB_Nluc-start_hHBB,PSU,3,2,8
+hHBB_Nluc-start_hHBB,PSU,5,2,9
+CoV-2-TTG-TTGfull-dSL1-3_LinearDesign-1_DEN2,natural,0,3,2
+CoV-2-TTG-TTGfull-dSL1-3_LinearDesign-1_DEN2,natural,1,3,3
+CoV-2-TTG-TTGfull-dSL1-3_LinearDesign-1_DEN2,natural,3,3,4
+CoV-2-TTG-TTGfull-dSL1-3_LinearDesign-1_DEN2,natural,5,3,5
+CoV-2-TTG-TTGfull-dSL1-3_LinearDesign-1_DEN2,PSU,0,3,6
+CoV-2-TTG-TTGfull-dSL1-3_LinearDesign-1_DEN2,PSU,1,3,7
+CoV-2-TTG-TTGfull-dSL1-3_LinearDesign-1_DEN2,PSU,3,3,8
+CoV-2-TTG-TTGfull-dSL1-3_LinearDesign-1_DEN2,PSU,5,3,9
+CoV-2-TTG-TTGfull-dSL1-3_Nluc_start_DEN2,natural,0,4,2
+CoV-2-TTG-TTGfull-dSL1-3_Nluc_start_DEN2,natural,1,4,3
+CoV-2-TTG-TTGfull-dSL1-3_Nluc_start_DEN2,natural,3,4,4
+CoV-2-TTG-TTGfull-dSL1-3_Nluc_start_DEN2,natural,5,4,5
+CoV-2-TTG-TTGfull-dSL1-3_Nluc_start_DEN2,PSU,0,4,6
+CoV-2-TTG-TTGfull-dSL1-3_Nluc_start_DEN2,PSU,1,4,7
+CoV-2-TTG-TTGfull-dSL1-3_Nluc_start_DEN2,PSU,3,4,8
+CoV-2-TTG-TTGfull-dSL1-3_Nluc_start_DEN2,PSU,5,4,9
+C3_LinearDesign-1_SINV_URE,natural,0,5,2
+C3_LinearDesign-1_SINV_URE,natural,1,5,3
+C3_LinearDesign-1_SINV_URE,natural,3,5,4
+C3_LinearDesign-1_SINV_URE,natural,5,5,5
+C3_LinearDesign-1_SINV_URE,PSU,0,5,6
+C3_LinearDesign-1_SINV_URE,PSU,1,5,7
+C3_LinearDesign-1_SINV_URE,PSU,3,5,8
+C3_LinearDesign-1_SINV_URE,PSU,5,5,9
+C3_Nluc_start_SINV_URE,natural,0,6,2
+C3_Nluc_start_SINV_URE,natural,1,6,3
+C3_Nluc_start_SINV_URE,natural,3,6,4
+C3_Nluc_start_SINV_URE,natural,5,6,5
+C3_Nluc_start_SINV_URE,PSU,0,6,6
+C3_Nluc_start_SINV_URE,PSU,1,6,7
+C3_Nluc_start_SINV_URE,PSU,3,6,8
+C3_Nluc_start_SINV_URE,PSU,5,6,9
+hHBB_Yellowstone_hHBB,natural,0,7,1
+hHBB_Yellowstone_hHBB,natural,1,7,2
+hHBB_Yellowstone_hHBB,natural,3,7,3
+hHBB_Yellowstone_hHBB,natural,5,7,4
+hHBB_Curevac_2_hHBB,natural,0,7,5
+hHBB_Curevac_2_hHBB,natural,1,7,6
+hHBB_Curevac_2_hHBB,natural,3,7,7
+hHBB_Curevac_2_hHBB,natural,5,7,8
+hHBB_LocalDesign_hHBB,natural,0,7,9
+hHBB_LocalDesign_hHBB,natural,1,7,10
+hHBB_LocalDesign_hHBB,natural,3,7,11
+hHBB_LocalDesign_hHBB,natural,5,7,12
+hHBB_-423.7 kCal_hHBB,natural,0,8,1
+hHBB_-423.7 kCal_hHBB,natural,1,8,2
+hHBB_-423.7 kCal_hHBB,natural,3,8,3
+hHBB_-423.7 kCal_hHBB,natural,5,8,4
+CoV-2-TTG-TTGfull-dSL1-3_Yellowstone_DEN2,natural,0,8,5
+CoV-2-TTG-TTGfull-dSL1-3_Yellowstone_DEN2,natural,1,8,6
+CoV-2-TTG-TTGfull-dSL1-3_Yellowstone_DEN2,natural,3,8,7
+CoV-2-TTG-TTGfull-dSL1-3_Yellowstone_DEN2,natural,5,8,8
+CoV-2-TTG-TTGfull-dSL1-3_Curevac_2_DEN2,natural,0,8,9
+CoV-2-TTG-TTGfull-dSL1-3_Curevac_2_DEN2,natural,1,8,10
+CoV-2-TTG-TTGfull-dSL1-3_Curevac_2_DEN2,natural,3,8,11
+CoV-2-TTG-TTGfull-dSL1-3_Curevac_2_DEN2,natural,5,8,12
+CoV-2-TTG-TTGfull-dSL1-3_LocalDesign_DEN2,natural,0,9,1
+CoV-2-TTG-TTGfull-dSL1-3_LocalDesign_DEN2,natural,1,9,2
+CoV-2-TTG-TTGfull-dSL1-3_LocalDesign_DEN2,natural,3,9,3
+CoV-2-TTG-TTGfull-dSL1-3_LocalDesign_DEN2,natural,5,9,4
+CoV-2-TTG-TTGfull-dSL1-3_-423.7 kCal_DEN2,natural,0,9,5
+CoV-2-TTG-TTGfull-dSL1-3_-423.7 kCal_DEN2,natural,1,9,6
+CoV-2-TTG-TTGfull-dSL1-3_-423.7 kCal_DEN2,natural,3,9,7
+CoV-2-TTG-TTGfull-dSL1-3_-423.7 kCal_DEN2,natural,5,9,8
+C3_Yellowstone_SINV_URE,natural,0,9,9
+C3_Yellowstone_SINV_URE,natural,1,9,10
+C3_Yellowstone_SINV_URE,natural,3,9,11
+C3_Yellowstone_SINV_URE,natural,5,9,12
+C3_Curevac_2_SINV_URE,natural,0,10,1
+C3_Curevac_2_SINV_URE,natural,1,10,2
+C3_Curevac_2_SINV_URE,natural,3,10,3
+C3_Curevac_2_SINV_URE,natural,5,10,4
+C3_LocalDesign_SINV_URE,natural,0,10,5
+C3_LocalDesign_SINV_URE,natural,1,10,6
+C3_LocalDesign_SINV_URE,natural,3,10,7
+C3_LocalDesign_SINV_URE,natural,5,10,8
+C3_-423.7 kCal_SINV_URE,natural,0,10,9
+C3_-423.7 kCal_SINV_URE,natural,1,10,10
+C3_-423.7 kCal_SINV_URE,natural,3,10,11
+C3_-423.7 kCal_SINV_URE,natural,5,10,12

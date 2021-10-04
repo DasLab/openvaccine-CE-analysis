@@ -1,0 +1,250 @@
+Data File Name,Eukaryote Total RNA Nano_2020-12-02_15-54-46.xad
+Data File Path,C:\Program Files (x86)\Agilent\2100 bioanalyzer\2100 expert\Data\2020-12-02
+Date Created,"Wednesday, December 2, 2020 3:54:46 PM"
+Date Last Modified,"Wednesday, December 2, 2020 4:27:00 PM"
+Version Created,B.02.11.SI811
+Version Last Modified,B.02.11.SI811
+ 
+Assay Name,Eukaryote Total RNA Nano Series II
+Assay Path,C:\Program Files (x86)\Agilent\2100 bioanalyzer\2100 expert\assays\RNA
+Assay Title,Eukaryote Total RNA Nano
+Assay Version,2.6
+ 
+Number of Samples Run,12
+ 
+Sample Name,17a16_TP1
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+22.7,5.4,22.50,16.0,0.8
+8.4,2.7,30.16,5.2,1.3
+0.9,0.3,34.01,0.6,0.7
+40.0,15.4,36.72,33.5,2.5
+3.1,1.4,42.34,2.2,1.4
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+18S,41.58,43.62,3.1,4.6
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Color
+Region 1,29.25,30.93,9.0,13,16711680
+Region 2,36.05,37.48,38.8,57,32768
+ 
+ 
+Sample Name,17a16_TP2
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+23.5,5.6,22.50,16.7,0.7
+21.8,6.9,30.06,12.1,1.7
+2.4,0.8,31.62,1.3,0.8
+8.9,3.2,33.84,3.0,2.0
+2.6,1.0,35.17,1.8,0.6
+52.3,20.3,36.63,39.6,2.5
+1.9,0.9,42.45,1.1,1.0
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+18S,41.79,43.53,1.2,1.0
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Color
+Region 1,29.25,30.93,22.7,19,16711680
+Region 2,36.05,37.48,50.9,44,32768
+ 
+ 
+Sample Name,17a16_TP3
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+23.2,5.6,22.50,16.3,0.9
+14.1,4.5,30.14,7.3,1.5
+3.0,1.0,31.64,1.4,0.8
+2.7,0.9,33.23,1.7,0.7
+4.4,1.6,33.94,2.4,0.8
+15.1,6.0,36.84,9.3,2.0
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Color
+Region 1,29.25,30.93,15.5,24,16711680
+Region 2,36.05,37.48,14.9,23,32768
+ 
+ 
+Sample Name,17a16_TP4
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+22.8,5.5,22.50,16.4,0.7
+10.9,3.5,30.12,5.5,1.5
+2.4,0.8,31.61,1.2,0.8
+2.2,0.8,33.24,1.4,0.7
+2.8,1.0,33.94,1.7,0.7
+5.8,2.3,36.96,3.3,1.6
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Color
+Region 1,29.25,30.93,13.2,25,16711680
+Region 2,36.05,37.48,6.8,13,32768
+ 
+ 
+Sample Name,17a17_TP1
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+22.9,5.6,22.50,16.2,0.8
+9.3,3.0,30.11,5.7,1.4
+0.9,0.3,34.10,0.5,0.7
+53.0,21.0,36.79,46.7,3.0
+2.2,1.0,42.68,1.1,1.3
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+18S,41.89,44.44,2.3,3.0
+28S,50.43,51.03,0.1,0.1
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Color
+Region 1,29.25,30.93,9.7,13,16711680
+Region 2,36.05,37.48,50.4,67,32768
+ 
+ 
+Sample Name,17a17_TP2
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+23.2,5.6,22.50,16.3,0.9
+14.5,4.7,30.11,9.1,1.3
+2.3,0.8,32.58,1.2,0.8
+1.5,0.5,33.94,1.0,0.6
+54.2,21.4,36.83,36.3,3.6
+2.4,1.1,42.67,1.2,1.1
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+18S,42.01,43.04,0.6,0.6
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Color
+Region 1,29.25,30.93,16.5,16,16711680
+Region 2,36.05,37.48,49.2,48,32768
+ 
+ 
+Sample Name,17a17_TP3
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+22.2,5.3,22.50,15.7,0.9
+9.8,3.2,30.09,6.3,1.2
+6.9,2.4,32.53,1.9,2.0
+29.2,11.5,36.89,12.1,3.6
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Color
+Region 1,29.25,30.93,12.3,17,16711680
+Region 2,36.05,37.48,23.3,32,32768
+ 
+ 
+Sample Name,17a17_TP4
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+21.9,5.2,22.50,15.4,0.9
+6.1,2.0,30.14,4.4,1.0
+4.4,1.7,37.12,2.8,1.2
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Color
+Region 1,29.25,30.93,9.9,22,16711680
+Region 2,36.05,37.48,9.6,21,32768
+ 
+ 
+Sample Name,17a18_TP1
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+22.1,5.2,22.50,15.5,0.9
+9.8,3.1,30.14,6.0,1.4
+1.3,0.5,33.99,0.8,0.7
+51.5,19.8,36.55,41.7,2.7
+2.8,1.3,42.34,1.7,1.5
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+18S,41.63,44.29,2.8,3.9
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Color
+Region 1,29.25,30.93,9.9,14,16711680
+Region 2,36.05,37.48,49.3,67,32768
+ 
+ 
+Sample Name,17a18_TP2
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+21.3,5.0,22.50,14.9,0.8
+11.3,3.6,30.11,6.9,1.4
+5.8,2.1,34.53,1.2,2.7
+35.2,13.6,36.58,22.4,3.0
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Color
+Region 1,29.25,30.93,12.5,17,16711680
+Region 2,36.05,37.48,32.0,44,32768
+ 
+ 
+Sample Name,17a18_TP3
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+21.2,5.0,22.50,14.9,0.9
+8.6,2.7,30.13,5.1,1.3
+1.2,0.4,32.70,0.7,0.6
+4.7,1.7,34.47,1.2,1.7
+13.5,5.2,36.80,5.4,2.8
+0.8,0.4,48.34,0.8,0.6
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Color
+Region 1,29.25,30.93,10.2,20,16711680
+Region 2,36.05,37.48,11.1,22,32768
+ 
+ 
+Sample Name,17a18_TP4
+ 
+Peak Table
+Time corrected area,Area,Aligned Migration Time [s],Peak Height,Peak Width
+20.1,4.7,22.50,14.3,0.7
+10.5,3.3,30.10,6.3,1.3
+1.8,0.6,32.72,1.0,0.7
+6.8,2.4,34.35,1.7,1.7
+3.1,1.1,35.25,1.6,0.8
+8.1,3.1,36.88,3.2,1.9
+ 
+Fragment Table
+Name,Start Time [s],End Time [s],Area,% of total Area
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Color
+Region 1,29.25,30.93,12.4,24,16711680
+Region 2,36.05,37.48,8.5,16,32768
+ 

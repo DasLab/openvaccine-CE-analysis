@@ -1,0 +1,131 @@
+﻿Sample,Nucleotide,Timepoint,Plate,FileNumber
+hHBB_Yellowstone_hHBB,natural,0,1,1
+hHBB_Yellowstone_hHBB,natural,0.5,1,2
+hHBB_Yellowstone_hHBB,natural,1,1,3
+hHBB_Yellowstone_hHBB,natural,1.5,1,4
+hHBB_Yellowstone_hHBB,natural,2,1,5
+hHBB_Yellowstone_hHBB,natural,3,1,6
+hHBB_Yellowstone_hHBB,natural,4,1,7
+hHBB_Yellowstone_hHBB,natural,5,1,8
+hHBB_Yellowstone_hHBB,natural,18,1,9
+hHBB_Yellowstone_hHBB,natural,24,1,10
+hHBB_Yellowstone_hHBB,5mC,0,1,11
+hHBB_Yellowstone_hHBB,5mC,0.5,1,12
+hHBB_Yellowstone_hHBB,5mC,1,2,1
+hHBB_Yellowstone_hHBB,5mC,1.5,2,2
+hHBB_Yellowstone_hHBB,5mC,2,2,3
+hHBB_Yellowstone_hHBB,5mC,3,2,4
+hHBB_Yellowstone_hHBB,5mC,4,2,5
+hHBB_Yellowstone_hHBB,5mC,5,2,6
+hHBB_Yellowstone_hHBB,5mC,18,2,7
+hHBB_Yellowstone_hHBB,5mC,24,2,8
+hHBB_Yellowstone_hHBB,PSU,0,6,11
+hHBB_Yellowstone_hHBB,PSU,0.5,6,12
+hHBB_Yellowstone_hHBB,PSU,1,7,1
+hHBB_Yellowstone_hHBB,PSU,1.5,7,2
+hHBB_Yellowstone_hHBB,PSU,2,7,3
+hHBB_Yellowstone_hHBB,PSU,3,7,4
+hHBB_Yellowstone_hHBB,PSU,4,7,5
+hHBB_Yellowstone_hHBB,PSU,5,7,6
+hHBB_Yellowstone_hHBB,PSU,18,7,7
+hHBB_Yellowstone_hHBB,PSU,24,7,8
+hHBB_LinearDesign_hHBB,5mC,0,9,6
+hHBB_LinearDesign_hHBB,5mC,0.5,2,9
+hHBB_LinearDesign_hHBB,5mC,1,2,11
+hHBB_LinearDesign_hHBB,5mC,1.5,2,12
+hHBB_LinearDesign_hHBB,5mC,2,3,1
+hHBB_LinearDesign_hHBB,5mC,3,3,2
+hHBB_LinearDesign_hHBB,5mC,4,3,3
+hHBB_LinearDesign_hHBB,5mC,5,3,4
+hHBB_LinearDesign_hHBB,5mC,18,3,5
+hHBB_LinearDesign_hHBB,5mC,24,3,6
+hHBB_LinearDesign_hHBB,PSU,0,7,9
+hHBB_LinearDesign_hHBB,PSU,0.5,7,10
+hHBB_LinearDesign_hHBB,PSU,1,7,11
+hHBB_LinearDesign_hHBB,PSU,1.5,7,12
+hHBB_LinearDesign_hHBB,PSU,2,8,1
+hHBB_LinearDesign_hHBB,PSU,3,8,2
+hHBB_LinearDesign_hHBB,PSU,4,8,3
+hHBB_LinearDesign_hHBB,PSU,5,8,4
+hHBB_LinearDesign_hHBB,PSU,18,8,5
+hHBB_LinearDesign_hHBB,PSU,24,8,6
+hHBB_Nluc_hHBB,5mC,0,3,7
+hHBB_Nluc_hHBB,5mC,0.5,3,8
+hHBB_Nluc_hHBB,5mC,1,3,9
+hHBB_Nluc_hHBB,5mC,1.5,3,10
+hHBB_Nluc_hHBB,5mC,2,3,11
+hHBB_Nluc_hHBB,5mC,3,3,12
+hHBB_Nluc_hHBB,5mC,4,4,1
+hHBB_Nluc_hHBB,5mC,5,4,2
+hHBB_Nluc_hHBB,5mC,18,4,3
+hHBB_Nluc_hHBB,5mC,24,4,4
+hHBB_Nluc_hHBB,PSU,0,8,7
+hHBB_Nluc_hHBB,PSU,0.5,8,8
+hHBB_Nluc_hHBB,PSU,1,8,9
+hHBB_Nluc_hHBB,PSU,1.5,8,10
+hHBB_Nluc_hHBB,PSU,2,8,11
+hHBB_Nluc_hHBB,PSU,3,8,12
+hHBB_Nluc_hHBB,PSU,4,9,1
+hHBB_Nluc_hHBB,PSU,5,9,2
+hHBB_Nluc_hHBB,PSU,18,9,3
+hHBB_Nluc_hHBB,PSU,24,9,4
+hHBB_GCrich-2_hHBB,5mC,0,4,5
+hHBB_GCrich-2_hHBB,5mC,0.5,4,6
+hHBB_GCrich-2_hHBB,5mC,1,4,7
+hHBB_GCrich-2_hHBB,5mC,1.5,4,8
+hHBB_GCrich-2_hHBB,5mC,2,4,9
+hHBB_GCrich-2_hHBB,5mC,3,4,10
+hHBB_GCrich-2_hHBB,5mC,4,4,11
+hHBB_GCrich-2_hHBB,5mC,5,4,12
+hHBB_GCrich-2_hHBB,5mC,18,9,7
+hHBB_GCrich-2_hHBB,5mC,24,5,2
+hHBB_GCrich-2_hHBB,PSU,0,10,2
+hHBB_GCrich-2_hHBB,PSU,0.5,10,2
+hHBB_GCrich-2_hHBB,PSU,1,10,3
+hHBB_GCrich-2_hHBB,PSU,1.5,10,4
+hHBB_GCrich-2_hHBB,PSU,2,10,5
+hHBB_GCrich-2_hHBB,PSU,3,10,6
+hHBB_GCrich-2_hHBB,PSU,4,10,7
+hHBB_GCrich-2_hHBB,PSU,5,10,8
+hHBB_GCrich-2_hHBB,PSU,18,10,9
+hHBB_GCrich-2_hHBB,PSU,24,10,10
+hHBB_LocalDesign_hHBB,5mC,0,5,3
+hHBB_LocalDesign_hHBB,5mC,0.5,5,4
+hHBB_LocalDesign_hHBB,5mC,1,5,5
+hHBB_LocalDesign_hHBB,5mC,1.5,5,6
+hHBB_LocalDesign_hHBB,5mC,2,5,7
+hHBB_LocalDesign_hHBB,5mC,3,5,8
+hHBB_LocalDesign_hHBB,5mC,4,5,9
+hHBB_LocalDesign_hHBB,5mC,5,5,10
+hHBB_LocalDesign_hHBB,5mC,18,5,11
+hHBB_LocalDesign_hHBB,5mC,24,5,12
+hHBB_LocalDesign_hHBB,PSU,0,11,1
+hHBB_LocalDesign_hHBB,PSU,0.5,11,2
+hHBB_LocalDesign_hHBB,PSU,1,11,3
+hHBB_LocalDesign_hHBB,PSU,1.5,11,4
+hHBB_LocalDesign_hHBB,PSU,2,11,5
+hHBB_LocalDesign_hHBB,PSU,3,11,6
+hHBB_LocalDesign_hHBB,PSU,4,11,7
+hHBB_LocalDesign_hHBB,PSU,5,11,8
+hHBB_LocalDesign_hHBB,PSU,18,11,9
+hHBB_LocalDesign_hHBB,PSU,24,11,10
+hHBB_-423.7 kcal_hHBB,5mC,0,6,1
+hHBB_-423.7 kcal_hHBB,5mC,0.5,6,2
+hHBB_-423.7 kcal_hHBB,5mC,1,6,3
+hHBB_-423.7 kcal_hHBB,5mC,1.5,6,4
+hHBB_-423.7 kcal_hHBB,5mC,2,6,5
+hHBB_-423.7 kcal_hHBB,5mC,3,6,6
+hHBB_-423.7 kcal_hHBB,5mC,4,6,7
+hHBB_-423.7 kcal_hHBB,5mC,5,6,8
+hHBB_-423.7 kcal_hHBB,5mC,18,6,9
+hHBB_-423.7 kcal_hHBB,5mC,24,6,10
+hHBB_-423.7 kcal_hHBB,PSU,0,13,1
+hHBB_-423.7 kcal_hHBB,PSU,0.5,13,2
+hHBB_-423.7 kcal_hHBB,PSU,1,13,3
+hHBB_-423.7 kcal_hHBB,PSU,1.5,13,4
+hHBB_-423.7 kcal_hHBB,PSU,2,13,5
+hHBB_-423.7 kcal_hHBB,PSU,3,13,6
+hHBB_-423.7 kcal_hHBB,PSU,4,13,7
+hHBB_-423.7 kcal_hHBB,PSU,5,13,8
+hHBB_-423.7 kcal_hHBB,PSU,18,13,9
+hHBB_-423.7 kcal_hHBB,PSU,24,13,10
