@@ -3,7 +3,7 @@
 ## What this is
 **Capillary electrophoresis data and analysis to measure in-solution stability of mRNA's for the manuscript**:
 
-Leppek, K., Byeon, G.W., Kladwang, W., Wayment-Steele, H.K., Kerr, C., ... Barna, M., Das, R. (2021). Combinatorial optimization of mRNA structure, stability, and translation for RNA-based therapeutics. https://www.biorxiv.org/content/10.1101/2021.03.29.437587v1.
+Leppek, K., Byeon, G.W., Kladwang, W., Wayment-Steele, H.K., Kerr, C., Xu, A.F., Kim, D.S., Topkar, V.V., Choe, C., Rothschild, D., Tiu, G.C., Wellington-Oguri, R., Fujii, K., Sharma, E., Watkins, A.M., Nicol, J.J., Romano, J., Tunguz, B., Eterna Participants, Barna, M., Das, R. Barna, M., Das, R. (2021). Combinatorial optimization of mRNA structure, stability, and translation for RNA-based therapeutics. https://www.biorxiv.org/content/10.1101/2021.03.29.437587v1.
 
 ## Contributors
 + Data were collected by W. Kladwang, Stanford University, based on mRNA's prepared as part of the OpenVaccine collaboration by Maria Barna's and Rhiju Das's lab at Stanford.
