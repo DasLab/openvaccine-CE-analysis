@@ -1,0 +1,157 @@
+[GelPrime]
+Enabled=False
+Conditioning=True
+Gel=1
+Gel Barcode=RNA Gel
+Prime to Buffer=True
+Cond Pressure=280
+Cond Time=3
+Gel Pressure=280
+Gel Time=5
+[Pre-Run]
+Enabled=True
+KV=8.00
+Time seconds=30
+[Water Dip 1]
+Enabled=False
+Tray=3
+Row=A
+Dip count=1
+Time seconds=60
+[Marker 1]
+Enabled=False
+Inj. Type=Voltage
+Row=A
+KV=5.00
+Vacuum Pressure=-2.0
+Time seconds=10
+[Water Dip 2]
+Enabled=True
+Tray=3
+Row=A
+Dip count=2
+Time seconds=60
+[Sample Injection]
+Enabled=True
+Inj. Type=Voltage
+KV=5.00
+Vacuum Pressure=-2.0
+Time seconds=4
+[Separation]
+Enabled=True
+KV=8.00
+Time minutes=40.00
+[Method Summary]
+Name=DNF-471-33 - SS Total RNA 15nt.mthds
+Type=SEPARATION
+Task Count=16
+Run folder=Ann_1_11232020
+Run folder path=C:\AATI\Data\
+Copy results data=True
+Copy to path=C:\Users\aati\Desktop\Customer Data\Wipapat
+Create Cal File=True
+Use Cal File=False
+Cal File=C:\Users\aati\Desktop\Customer Data\Wipapat\20201208_Ladder.scal
+Notes=First Trial Run
+CapLenth=33
+Tray Name=Ann_1_11232020
+Diluent Marker Lot Number=
+Ladder Lot Number=
+[Merge Info]
+Merge Enable=False
+Merge ID=0
+Merge Index=1
+[1]
+Name=Stage
+Method step=0
+Time=60
+Move to=Tray1A
+[2]
+Name=Injection
+Method step=0
+Time=10
+KV=0.00
+[3]
+Name=Stage
+Method step=1
+Time=60
+Move to=Tray2A
+[4]
+Name=Pumping
+Method step=0
+Time=685
+EmptyResRate=300
+FillResRate=300
+FillCapRate=200
+FillCapPress=280.0
+FillCapTime=3
+Solution=2
+Skip Empty=False
+Vent Pull=False
+[5]
+Name=Stage
+Method step=1
+Time=60
+Move to=Tray1A
+[6]
+Name=Pumping
+Method step=1
+Time=835
+EmptyResRate=300
+FillResRate=300
+FillCapRate=200
+FillCapPress=280.0
+FillCapTime=5
+Solution=3
+Skip Empty=False
+Vent Pull=True
+[7]
+Name=Stage
+Method step=2
+Time=60
+Move to=Tray1A
+[8]
+Name=Prerun
+Method step=2
+Time=30
+KV=8.00
+[9]
+Name=Stage
+Method step=5
+Time=60
+Move to=Tray3A
+[10]
+Name=Injection
+Method step=5
+Time=60
+KV=0.00
+[11]
+Name=Stage
+Method step=5
+Time=60
+Move to=Tray3A
+[12]
+Name=Injection
+Method step=5
+Time=60
+KV=0.00
+[13]
+Name=Stage
+Method step=6
+Time=60
+Move to=Tray4A
+[14]
+Name=Injection
+Method step=6
+Time=4
+KV=5.00
+[15]
+Name=Stage
+Method step=7
+Time=60
+Move to=Tray1A
+[16]
+Name=Separation
+Method step=7
+Time=2400
+KV=8.00
