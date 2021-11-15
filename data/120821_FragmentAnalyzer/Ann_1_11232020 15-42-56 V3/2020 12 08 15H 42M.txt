@@ -1,0 +1,486 @@
+Raw file: C:\AATI\Data\2020 12 08\Ann_1_11232020 15-42-56\2020 12 08 15H 42M.raw
+Operator: user
+Capillary array: 082118-06SFS
+Capillary array utilization count: 329
+Notes: First Trial Run
+============================================================
+Capillary #: 1
+Well: A1
+Sample ID: B1_TP1
+Description: 
+
+Capillary #: 2
+Well: A2
+Sample ID: B1_TP2
+Description: 
+
+Capillary #: 3
+Well: A3
+Sample ID: B1_TP3
+Description: 
+
+Capillary #: 4
+Well: A4
+Sample ID: B1_TP4
+Description: 
+
+Capillary #: 5
+Well: A5
+Sample ID: B1_PU_TP4
+Description: 
+
+Capillary #: 6
+Well: A6
+Sample ID: B1_PU_TP3
+Description: 
+
+Capillary #: 7
+Well: A7
+Sample ID: B1_PU_TP2
+Description: 
+
+Capillary #: 8
+Well: A8
+Sample ID: B1_PU_TP1
+Description: 
+
+Capillary #: 9
+Well: A9
+Sample ID: C1_TP4
+Description: 
+
+Capillary #: 10
+Well: A10
+Sample ID: C1_TP3
+Description: 
+
+Capillary #: 11
+Well: A11
+Sample ID: C1_TP2
+Description: 
+
+Capillary #: 12
+Well: A12
+Sample ID: C1_TP1
+Description: 
+
+Capillary #: 13
+Well: B1
+Sample ID: C1_PU_TP1
+Description: 
+
+Capillary #: 14
+Well: B2
+Sample ID: C1_PU_TP2
+Description: 
+
+Capillary #: 15
+Well: B3
+Sample ID: C1_PU_TP3
+Description: 
+
+Capillary #: 16
+Well: B4
+Sample ID: C1_PU_TP4
+Description: 
+
+Capillary #: 17
+Well: B5
+Sample ID: H1_TP1
+Description: 
+
+Capillary #: 18
+Well: B6
+Sample ID: H1_TP2
+Description: 
+
+Capillary #: 19
+Well: B7
+Sample ID: H1_TP3
+Description: 
+
+Capillary #: 20
+Well: B8
+Sample ID: H1_TP4
+Description: 
+
+Capillary #: 21
+Well: B9
+Sample ID: H1_PU_TP1
+Description: 
+
+Capillary #: 22
+Well: B10
+Sample ID: H1_PU_TP2
+Description: 
+
+Capillary #: 23
+Well: B11
+Sample ID: H1_PU_TP3
+Description: 
+
+Capillary #: 24
+Well: B12
+Sample ID: H1_PU_TP4
+Description: 
+
+Capillary #: 25
+Well: C1
+Sample ID: A2_TP1
+Description: 
+
+Capillary #: 26
+Well: C2
+Sample ID: A2_TP2
+Description: 
+
+Capillary #: 27
+Well: C3
+Sample ID: A2_TP3
+Description: 
+
+Capillary #: 28
+Well: C4
+Sample ID: A2_TP4
+Description: 
+
+Capillary #: 29
+Well: C5
+Sample ID: A2_PU_TP1
+Description: 
+
+Capillary #: 30
+Well: C6
+Sample ID: A2_PU_TP2
+Description: 
+
+Capillary #: 31
+Well: C7
+Sample ID: A2_PU_TP3
+Description: 
+
+Capillary #: 32
+Well: C8
+Sample ID: A2_PU_TP4
+Description: 
+
+Capillary #: 33
+Well: C9
+Sample ID: F2_TP1
+Description: 
+
+Capillary #: 34
+Well: C10
+Sample ID: F2_TP2
+Description: 
+
+Capillary #: 35
+Well: C11
+Sample ID: F2_TP3
+Description: 
+
+Capillary #: 36
+Well: C12
+Sample ID: F2_TP4
+Description: 
+
+Capillary #: 37
+Well: D1
+Sample ID: F2_PU_TP1
+Description: 
+
+Capillary #: 38
+Well: D2
+Sample ID: F2_PU_TP2
+Description: 
+
+Capillary #: 39
+Well: D3
+Sample ID: F2_PU_TP3
+Description: 
+
+Capillary #: 40
+Well: D4
+Sample ID: F2_PU_TP4
+Description: 
+
+Capillary #: 41
+Well: D5
+Sample ID: G2_TP1
+Description: 
+
+Capillary #: 42
+Well: D6
+Sample ID: G2_TP2
+Description: 
+
+Capillary #: 43
+Well: D7
+Sample ID: G2_TP3
+Description: 
+
+Capillary #: 44
+Well: D8
+Sample ID: G2_TP4
+Description: 
+
+Capillary #: 45
+Well: D9
+Sample ID: G2_PU_TP1
+Description: 
+
+Capillary #: 46
+Well: D10
+Sample ID: G2_PU_TP1
+Description: 
+
+Capillary #: 47
+Well: D11
+Sample ID: G2_PU_TP1
+Description: 
+
+Capillary #: 48
+Well: D12
+Sample ID: G2_PU_TP1
+Description: 
+
+Capillary #: 49
+Well: E1
+Sample ID: A1_TP1
+Description: 
+
+Capillary #: 50
+Well: E2
+Sample ID: A1_TP2
+Description: 
+
+Capillary #: 51
+Well: E3
+Sample ID: A1_TP3
+Description: 
+
+Capillary #: 52
+Well: E4
+Sample ID: A1_TP4
+Description: 
+
+Capillary #: 53
+Well: E5
+Sample ID: D1_TP1
+Description: 
+
+Capillary #: 54
+Well: E6
+Sample ID: D1_TP2
+Description: 
+
+Capillary #: 55
+Well: E7
+Sample ID: D1_TP3
+Description: 
+
+Capillary #: 56
+Well: E8
+Sample ID: D1_TP4
+Description: 
+
+Capillary #: 57
+Well: E9
+Sample ID: F1_TP1
+Description: 
+
+Capillary #: 58
+Well: E10
+Sample ID: F1_TP2
+Description: 
+
+Capillary #: 59
+Well: E11
+Sample ID: F1_TP3
+Description: 
+
+Capillary #: 60
+Well: E12
+Sample ID: F1_TP4
+Description: 
+
+Capillary #: 61
+Well: F1
+Sample ID: G1_TP1
+Description: 
+
+Capillary #: 62
+Well: F2
+Sample ID: G1_TP2
+Description: 
+
+Capillary #: 63
+Well: F3
+Sample ID: G1_TP3
+Description: 
+
+Capillary #: 64
+Well: F4
+Sample ID: G1_TP4
+Description: 
+
+Capillary #: 65
+Well: F5
+Sample ID: B2_TP1
+Description: 
+
+Capillary #: 66
+Well: F6
+Sample ID: B2_TP2
+Description: 
+
+Capillary #: 67
+Well: F7
+Sample ID: B2_TP3
+Description: 
+
+Capillary #: 68
+Well: F8
+Sample ID: B2_TP4
+Description: 
+
+Capillary #: 69
+Well: F9
+Sample ID: C2_TP1
+Description: 
+
+Capillary #: 70
+Well: F10
+Sample ID: C2_TP2
+Description: 
+
+Capillary #: 71
+Well: F11
+Sample ID: C2_TP3
+Description: 
+
+Capillary #: 72
+Well: F12
+Sample ID: C2_TP4
+Description: 
+
+Capillary #: 73
+Well: G1
+Sample ID: D2_TP1
+Description: 
+
+Capillary #: 74
+Well: G2
+Sample ID: D2_TP2
+Description: 
+
+Capillary #: 75
+Well: G3
+Sample ID: D2_TP3
+Description: 
+
+Capillary #: 76
+Well: G4
+Sample ID: D2_TP4
+Description: 
+
+Capillary #: 77
+Well: G5
+Sample ID: E2_TP1
+Description: 
+
+Capillary #: 78
+Well: G6
+Sample ID: E2_TP2
+Description: 
+
+Capillary #: 79
+Well: G7
+Sample ID: E2_TP3
+Description: 
+
+Capillary #: 80
+Well: G8
+Sample ID: E2_TP4
+Description: 
+
+Capillary #: 81
+Well: G9
+Sample ID: H2_TP1
+Description: 
+
+Capillary #: 82
+Well: G10
+Sample ID: H2_TP2
+Description: 
+
+Capillary #: 83
+Well: G11
+Sample ID: H2_TP3
+Description: 
+
+Capillary #: 84
+Well: G12
+Sample ID: H2_TP4
+Description: 
+
+Capillary #: 85
+Well: H1
+Sample ID: A3_TP1
+Description: 
+
+Capillary #: 86
+Well: H2
+Sample ID: A3_TP2
+Description: 
+
+Capillary #: 87
+Well: H3
+Sample ID: A3_TP3
+Description: 
+
+Capillary #: 88
+Well: H4
+Sample ID: A3_TP4
+Description: 
+
+Capillary #: 89
+Well: H5
+Sample ID: B3_TP1
+Description: 
+
+Capillary #: 90
+Well: H6
+Sample ID: B3_TP2
+Description: 
+
+Capillary #: 91
+Well: H7
+Sample ID: B3_TP3
+Description: 
+
+Capillary #: 92
+Well: H8
+Sample ID: B3_TP4
+Description: 
+
+Capillary #: 93
+Well: H9
+Sample ID: 
+Description: 
+
+Capillary #: 94
+Well: H10
+Sample ID: 
+Description: 
+
+Capillary #: 95
+Well: H11
+Sample ID: 
+Description: 
+
+Capillary #: 96
+Well: H12
+Sample ID: Ladder
+Description: 
+
