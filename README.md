@@ -51,6 +51,30 @@ Final output, after carrying out such first over all 24 mRNA's characterized in 
 
 Here, half-life is given by `Half life = ln(2)/k_deg`.
 
+*Python implementation*
+In `python_scripts`, there are three files for repeating the analysis above, but in Python 3.
+
+`analysis_rd_dsk_scratch.py` contains the main function for processing the time series data in `../data/SOME_EXPERIMENT/processed_data`, modeled after the MATLAB function for processing.
+
+`dsk_bioanalyzer_fits_SCRIPT.ipynb` is the notebook that is used to run the analysis. Example below:
+```
+### 12-02 (4 timepoint survey), P4-P6, mRNA
+data_dir = "../data/120220_BioAnalyzer/"
+output_filename = 'dsk_output_12-02_P4P6norm'
+output_dir = '../output_dsk/1202/'
+norm_pk = 2
+pk_nt_bounds=np.array([[20,30],[250,300],[820,1000]])
+output_1202_P4P6norm_compiled, ouput_1202_P4P6norm_fits = ivdeg.analyze_bioanalyzer_data(data_dir, pk_nt_bounds=pk_nt_bounds, output_filename = output_filename, norm_pk = norm_pk, output_dir=output_dir, output_pdf=True)
+```
+Briefly,
+`data_dir`: path to the data files can be found
+`output_filename`: naming for the output files
+`output_dir`: path to where the files will be output
+`norm_pk`: which peak to use for normalization. 0 normalizes to total mRNA, 1 normalizes to the 25-nt control provided by the Bioanalyzer, and 2 normalizes to the second peak present if present in the experiment. Peak 3 is typically the largest and RNA peak of interest in these experiments.
+`pk_nt_bounds`: Providing relevant bounds where peaks are expected to be found. 
+
+`checkpoint.csv` prints out the current running calculations while the scripts are running. Meant as a checkpoint for troubleshooting if the data or analysis raise errors.
+
 ## Data on final 24 nLuc
 Data given in final table S5 of manuscript average over 2 independent replicates, and are given in [averaged\_k\_deg\_MATLAB\_2020only.csv](averaged_k_deg_MATLAB_2020only.csv)
  
